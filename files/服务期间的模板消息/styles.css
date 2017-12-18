@@ -955,14 +955,13 @@
   font-weight:400;
   font-style:normal;
   font-size:20px;
-  color:#000000;
   text-align:left;
 }
 #u868 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:147px;
+  top:161px;
   width:268px;
   word-wrap:break-word;
 }
@@ -1187,6 +1186,9 @@
   top:243px;
   width:169px;
   height:241px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:20px;
   text-align:left;
 }
@@ -1266,6 +1268,7 @@
   width:169px;
   height:292px;
   font-size:20px;
+  color:#FFFFFF;
   text-align:left;
 }
 #u891 {
@@ -1292,6 +1295,7 @@
   width:484px;
   height:292px;
   font-size:20px;
+  color:#FFFFFF;
   text-align:left;
 }
 #u893 {
@@ -1318,6 +1322,7 @@
   width:564px;
   height:292px;
   font-size:20px;
+  color:#FFFFFF;
   text-align:left;
 }
 #u895 {
