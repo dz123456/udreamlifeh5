@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:3278px;
+  width:2060px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -3027,6 +3027,7 @@
   width:383px;
   height:554px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u596_state0 {
   border-width:0px;
